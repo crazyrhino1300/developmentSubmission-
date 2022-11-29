@@ -4,21 +4,22 @@
 https://crazyrhino1300.github.io/try2/ 
 
 ### Goal and Value of the Application
-As a classical musician, I've alwyas found it a pitty how underappreciated classical music can be. As such, the goal of this
+As a classical musician, I've always found it a pity how underappreciated classical music can be. As such, the goal of this
 application is to allow users to gain better insight into the different composers and eras that exist in the classical musical world.
-Users are also able to click on each composer to learn more about their specific works and biography. This application has value in that
-it allows for the preservation of classical music knowledge and culture. IF I had more time, I would definitely add more filters to be more 
+Users are able to click on each composer to learn more about their specific works and biography. This application has value in that
+it allows for the preservation of classical music knowledge and culture. If I had more time, I would definitely add more filters to be more 
 explicit in the different epochs that different composers might fall into. I would also present a wider array of composers, but the amoutn of 
 JSON manipulation was a barrier.
 
 ### Usability Principles Considered
 - At the top of the gallery, I display what filters are in effect so that the user knows the state of the application
-- On the left, i have the aggregator move along with the user's scrolling so that the user knows what composers he or she has already
-  liked.
-- for each composers' biography, I allow an easily collapsible offcanvas that allows users to easily transition between browing the gallery
+- On the left, I have the aggregator move along with the user's scrolling so that the user knows what composers he or she has already
+  liked without having to scroll back up.
+- For each composers' biography, I utilize an easily collapsible offcanvas that allows users to easily transition between browsing the gallery
   and learning about a specific composer
 - There is a clear hierarchy between all of the headings, composer names, and the liked composers.
 - There's also an intuitive help hover-button that allows users to get a breif tutorial into how to use some of the application's features. The hovering makes it easier for users to exit out.
+- Overall, I aid users in learning the application with intuitive features and tutorials for those who need it. 
 
 ### Organization of Components
 - The page is divided into left and right; 
