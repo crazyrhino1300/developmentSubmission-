@@ -18,6 +18,7 @@ JSON manipulation was a barrier.
 - for each composers' biography, I allow an easily collapsible offcanvas that allows users to easily transition between browing the gallery
   and learning about a specific composer
 - There is a clear hierarchy between all of the headings, composer names, and the liked composers.
+- There's also an intuitive help hover-button that allows users to get a breif tutorial into how to use some of the application's features. The hovering makes it easier for users to exit out.
 
 ### Organization of Components
 - The page is divided into left and right; 
